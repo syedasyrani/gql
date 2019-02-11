@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_DB": "mongodb://localhost/gql-test"
+    }
+}
